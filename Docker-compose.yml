@@ -1,0 +1,4 @@
+version: '3'
+services:
+  neon:
+      image: neon_test:0.0.1
